@@ -42,13 +42,14 @@ ducimus expedita labore nemo odio quibusdam quidem sapiente soluta.
     .container{
         max-width: 1400px;
         margin: 0;
+        
     }
     .info h1 p{
         position: relative;
         font: inherit;
         margin: 0;
         text-align: left;
-        list-style: 130%;
+        line-height: 130%;
         width: fit-content;
         font-weight: 800;
         letter-spacing: -0.03em;
